@@ -1,0 +1,32 @@
+# Local-only material (original Spanish coursework PDFs)
+archive/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+*.RData
+.Rproj.user/
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.cut
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

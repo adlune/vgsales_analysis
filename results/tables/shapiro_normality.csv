@@ -1,0 +1,7 @@
+variable,w,p_value,normal
+Global_Sales,0.2885,<2e-16,No
+NA_Sales,0.2534,<2e-16,No
+EU_Sales,0.2926,<2e-16,No
+JP_Sales,0.2374,<2e-16,No
+Other_Sales,0.2703,<2e-16,No
+Log_Global_Sales,0.6877,<2e-16,No

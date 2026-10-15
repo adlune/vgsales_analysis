@@ -1,0 +1,4 @@
+Publisher_Tier,n,pct,mean_global,median_global,sd_global,skewness,min_global,max_global,median_NA,median_EU,median_JP
+Major,8164,49.2,0.766,0.27,2.074,14.275,0.01,82.74,0.13,0.04,0
+Mid,5270,31.8,0.39,0.14,0.826,7.911,0.01,21.82,0.07,0.02,0
+Small,3164,19.1,0.192,0.07,0.402,6.237,0.01,5.99,0.02,0,0

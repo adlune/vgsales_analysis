@@ -1,0 +1,13 @@
+Variable,Level,Median,Lower,Upper
+Global_Sales,85%,0.17,0.17,0.175
+Global_Sales,95%,0.17,0.17,0.18
+Global_Sales,99%,0.17,0.16,0.18
+NA_Sales,85%,0.08,0.08,0.08
+NA_Sales,95%,0.08,0.08,0.08
+NA_Sales,99%,0.08,0.07,0.08
+EU_Sales,85%,0.02,0.02,0.02
+EU_Sales,95%,0.02,0.02,0.02
+EU_Sales,99%,0.02,0.02,0.02
+JP_Sales,85%,0,0,0
+JP_Sales,95%,0,0,0
+JP_Sales,99%,0,0,0

@@ -1,0 +1,5 @@
+group,H,df,p_value
+Publisher_Tier,1868.96,2,<2e-16
+Decade,473.09,3,<2e-16
+Platform_Gen,872.43,5,<2e-16
+Genre_Group,743.27,7,<2e-16
