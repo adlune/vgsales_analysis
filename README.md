@@ -191,8 +191,8 @@ To cite this project:
 
 ## Contact Information
 
-- **Author:** Adrian Lara *[Undergraduate student in Information Technologies for Sciences at the National Autonomous University of Mexico (UNAM), Morelia, Mexico]*.
-- **Contact:** adrianlarasc@gmail.com
+- **Author:** Adrian Lara *[Undergraduate student in Information Technologies for Sciences at the National Autonomous University of Mexico (UNAM)]*.
+- **Contact:** contact@adrianlara.dev
 
 ## Acknowledgements
 
